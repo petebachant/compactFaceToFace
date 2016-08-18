@@ -3,7 +3,7 @@
 This utility converts a mesh's `faceCompactLists` into `faceLists`, which
 improves interoperability of meshes between OpenFOAM and foam-extend.
 
-The original code was written by Ali Q. Raeini, but has now been cleaned up to
+The original code was written by Ali Q. Raeini, which has been modified to
 work with OpenFOAM 4.0.
 
 More:
