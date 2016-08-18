@@ -1,4 +1,4 @@
-# README
+# compactFaceToFace
 
 This utility converts a mesh's `faceCompactLists` into `faceLists`, which
 improves interoperability of meshes between OpenFOAM and foam-extend.
