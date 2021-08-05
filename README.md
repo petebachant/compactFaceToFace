@@ -8,3 +8,13 @@ work with OpenFOAM 4.0.
 
 More:
 http://www.cfd-online.com/Forums/openfoam-meshing-snappyhexmesh/93142-how-use-facelist-instead-facecompactlist.html
+
+
+## Building
+
+From this directory, run `wmake`.
+
+
+## Usage
+
+From an OpenFOAM case directory, run `compactFaceToFace`.
